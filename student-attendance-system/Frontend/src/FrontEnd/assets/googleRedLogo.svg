@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="google">
+  <linearGradient id="b" x1="16" x2="16" y1="32" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ff2d76"></stop>
+    <stop offset="1" stop-color="#fb0000"></stop>
+  </linearGradient>
+  <path fill="url(#b)" d="M31.37 13c.2 1.07.31 2.19.31 3.36C31.68 25.5 25.56 32 16.32 32c-8.84 0-16-7.16-16-16s7.16-16 16-16c4.32 0 7.93 1.59 10.7 4.17l-4.51 4.51v-.01c-1.68-1.6-3.81-2.42-6.189-2.42-5.28 0-9.57 4.46-9.57 9.74 0 5.279 4.29 9.75 9.57 9.75 4.79 0 8.05-2.74 8.721-6.5H16.32V13h15.05z"></path>
+</svg>

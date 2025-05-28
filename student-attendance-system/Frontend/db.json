@@ -1,0 +1,242 @@
+{
+  "sections": [
+    {
+      "group": "Group 1",
+      "sessions": [
+        {
+          "date": "2024-03-01",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "late", "time": "10:35 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "004", "full_name": "Zakio Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:40 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:38 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-08",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "late", "time": "10:50 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:40 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-15",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:28 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "late", "time": "10:41 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:36 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:30 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-22",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "late", "time": "10:48 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:34 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-29",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "late", "time": "10:47 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:28 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "absent", "time": "--" }
+          ]
+        },
+        {
+          "date": "2024-04-05",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "late", "time": "10:43 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:34 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:36 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:35 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-12",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "late", "time": "10:49 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:32 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-19",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "justified absence", "time": "--" }
+          ]
+        },
+        {
+          "date": "2024-04-26",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "late", "time": "10:46 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "present", "time": "10:31 AM" }
+          ]
+        },
+        {
+          "date": "2024-05-03",
+          "students": [
+            { "id": "001", "full_name": "Bendaoud Hani", "email": "hani.bendaoud@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "002", "full_name": "Hafsi Yahia", "email": "yahia.hafsi@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "003", "full_name": "Lousra Chaker", "email": "chaker.lousra@esi-sba.dz", "status": "late", "time": "10:44 AM" },
+            { "id": "004", "full_name": "Zaki Ts", "email": "zaki.ts@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "005", "full_name": "Rabah Ts", "email": "rabah.ts@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "006", "full_name": "Yassine Taha", "email": "yassine.taha@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "007", "full_name": "Mohamed Ali", "email": "mohamed.ali@esi-sba.dz", "status": "absent", "time": "--" }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Group 2",
+      "sessions": [
+        {
+          "date": "2024-03-05",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "late", "time": "10:39 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "present", "time": "10:37 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:40 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "late", "time": "10:45 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-12",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "late", "time": "10:45 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:38 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time": "10:42 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-19",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "present", "time": "10:34 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time": "10:32 AM" }
+          ]
+        },
+        {
+          "date": "2024-03-26",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "late", "time": "10:50 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "justified absence", "time": "--" }
+          ]
+        },
+        {
+          "date": "2024-04-02",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "present", "time": "10:28 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "late", "time": "10:43 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time": "10:30 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-09",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:33 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "late", "time": "10:45 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time": "10:32 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-16",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:28 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:36 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "late", "time": "10:44 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-23",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "present", "time": "10:31 AM" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "present", "time": "10:29 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "late", "time": "10:47 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time": "10:35 AM" }
+          ]
+        },
+        {
+          "date": "2024-04-30",
+          "students": [
+            { "id": "011", "full_name": "Amina Rami", "email": "amina.rami@esi-sba.dz", "status": "absent", "time": "--" },
+            { "id": "012", "full_name": "Karim Elhadi", "email": "karim.elhadi@esi-sba.dz", "status": "present", "time": "10:35 AM" },
+            { "id": "013", "full_name": "Samir Belhadj", "email": "samir.belhadj@esi-sba.dz", "status": "late", "time": "10:46 AM" },
+            { "id": "014", "full_name": "Nora Said", "email": "nora.said@esi-sba.dz", "status": "justified absence", "time": "--" },
+            { "id": "015", "full_name": "Omar Cherif", "email": "omar.cherif@esi-sba.dz", "status": "present", "time": "10:32 AM" },
+            { "id": "016", "full_name": "Lina Bouchama", "email": "lina.bouchama@esi-sba.dz", "status": "present", "time": "10:30 AM" },
+            { "id": "017", "full_name": "Ismail Douibi", "email": "ismail.douibi@esi-sba.dz", "status": "present", "time":"10:22 AM"}
+          ]
+        }
+      ]
+    }
+  ]
+}

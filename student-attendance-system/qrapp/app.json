@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "QR-CODE-ATTENDECE",
+    "slug": "qrapp",
+    "version": "1.0.0",
+    "icon": "./assets/logo2.png" ,
+    "sdkVersion": "52.0.0",
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "com.chakerr.qrapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.chakerr.qrapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "241b9949-4e34-40be-ade6-0583e98f7c96"
+      }
+    },
+    "owner": "chakerr",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/241b9949-4e34-40be-ade6-0583e98f7c96"
+    },
+    "plugins": [
+      ["expo-location"] ,
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps._some_id_here_"
+        }
+      ]
+    ]
+  }
+}

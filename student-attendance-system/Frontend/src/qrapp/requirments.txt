@@ -1,0 +1,4 @@
+npm install -g expo-cli
+npm install
+npx expo login
+npm install -g eas-cli
